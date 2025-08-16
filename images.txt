@@ -6,3 +6,4 @@ nacos/nacos-server:v2.5.1
 mysql:5.7.43
 zookeeper:3.9.0
 bitnami/kafka:3.9.0
+bitnami/minio:2025
